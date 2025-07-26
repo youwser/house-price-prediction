@@ -1,1 +1,4 @@
-steamlit joblil numpy scikit-learn
+steamlit
+joblil
+numpy
+scikit-learn
