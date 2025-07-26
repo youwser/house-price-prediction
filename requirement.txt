@@ -1,4 +1,4 @@
 steamlit
-joblil
+joblib
 numpy
 scikit-learn
